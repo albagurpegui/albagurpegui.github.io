@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Journal Papers
+
+- A. Gurpegui, M. Jeeninga, E. Tegling, and A. Rantzer. Minimax Linear Regulator Problems for Positive Systems. /IEEE Transactions
+on Automatic Control/, pages 1–14, 2026. In press. [https://ieeexplore.ieee.org/document/11430578 Link to publication], [https://arxiv.org/pdf/2411.04809 Link to arxiv].
+- A. Gurpegui, E. Tegling and A. Rantzer. Minimax Linear Optimal Control of Positive Systems. 
+/IEEE Control Systems Letters (L-CSS)/ and /American Control conference 2024/ (joint submission), 
+Vol. 7, pp. 3920 - 3925, Dec 2023. [https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=alba%20gurpegui Link to publication], 
+[https://arxiv.org/pdf/2312.04990 Link to arxiv].
+
+== Conference Papers
+
+- A. Gurpegui, M. Jeeninga, E. Tegling and A. Rantzer. A. Gurpegui, E. Tegling, A. Rantzer.
+Linear Regulator-Based Synchronization of Positive Multi-Agent Systems. Accepted for
+presentation and and publication in the proceedings of the 2025 23rd European Control
+Conference (ECC), June 24-27, 2025. [https://ieeexplore.ieee.org/document/11187054 Link to publication].
+
+- A. Gurpegui, M. Jeeninga, E. Tegling and A. Rantzer. A. Gurpegui, E. Tegling, A. Rantzer.
+Linear Regulator Based Synchronization of Positive Multi-Agent Systems in Discrete-Time.
+Accepted for presentation at the 10th IFAC Conference on Networked Systems, Hong
+Kong, China, June 2025 and for publication on the IFAC-PapersOnLine website. [https://www.sciencedirect.com/science/article/pii/S2405896325003842 Link to publication].
+
+== Extended Abstracts
+- A. Gurpegui, E. Tegling and A. Rantzer. A Minimax Optimal Controller for Positive Systems. /26th 
+International Symposium on Mathematical Theory of Networks and Systems/, Cambridge, UK, Aug 2024. [https://arxiv.org/pdf/2502.01180 Link to arxiv].
+
+== Posters
+
+-  A. Gurpegui, M. Jeeninga, E. Tegling and A. Rantzer. Linear Regulator-based synchronization of positive discrete-time multi-agent systems. 2025. [/documents/POSTER_necsys.pdf Link to Poster].
+-  A. Gurpegui, E. Tegling and A. Rantzer. A Minimax Optimal Controller for Positive Systems. 2023. [/documents/Poster-WASP.pdf Link to Poster].
+
+== Thesis
+
+=== Licentiate Thesis
+
+- A. Gurpegui. Minimax Linear Regulator Problems for Positive Systems: with applications to multi-agent synchronization. /Department of Automatic Control,
+Lund University./ 2025. [https://lup.lub.lu.se/search/files/218374664/Thesis_Alba_Gurpegui_Ramon.pdf Link to publication.] 
+
+=== Master Thesis
+
+- A. Gurpegui. H∞ controller for smoothing the coupling error in co-simulated technical systems. /Master's Theses in Mathematical Sciences, Lund University/. 2022
+[https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9095145&fileOId=9151683 Link to publication.] 
+
+=== Bachelor Thesis
+
+- A. Gurpegui. Criptografía postcuántica. Facultad de ciencias matemáticas, Universidad Complutense de Madrid. 2020.
+[/documents/TFG-Alba.pdf Link to publication.] 
